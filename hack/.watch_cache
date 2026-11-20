@@ -304,10 +304,10 @@
   "fcs_keys_beta": {
     "fcs_keys": {
       "beta": {
-        "fingerprint": "24C5049d_26C5047e_24N5298d",
-        "ios_build": "24C5049d",
+        "fingerprint": "24C5049f_26C5047e_24N5298d",
+        "ios_build": "24C5049f",
         "macos_build": "26C5047e",
-        "updated_at": "2026-11-17T02:26:29Z",
+        "updated_at": "2026-11-20T01:10:57Z",
         "visionos_build": "24N5298d"
       }
     }
